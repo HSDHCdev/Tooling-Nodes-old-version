@@ -1,3 +1,5 @@
+This is a legacy version of https://github.com/Acly/comfyui-tooling-nodes by https://github.com/Acly
+
 # ComfyUI Nodes for External Tooling
 
 Provides nodes and API geared towards using ComfyUI as a backend for external tools.
@@ -226,3 +228,4 @@ git clone https://github.com/Acly/comfyui-tooling-nodes.git
 ```
 
 Restart ComfyUI and the nodes are functional.
+
